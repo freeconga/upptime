@@ -3,12 +3,6 @@ owner: freeconga # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Freecon.ga
     url: https://freecon.ga
   - name: Test Broken Site
@@ -19,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/freeconga/web/master/static/freeconga.png
+  #logoUrl: https://raw.githubusercontent.com/freeconga/web/master/static/freeconga.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
