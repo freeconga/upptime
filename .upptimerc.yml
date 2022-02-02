@@ -8,6 +8,11 @@ sites:
 #   - name: Test Broken Site
 #     url: https://thissitedoesnotexist.koj.co
 
+assignees: # Users to assign downtime issues (optional)
+  - adrigzr
+  - elraro
+  - txitxo0
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
