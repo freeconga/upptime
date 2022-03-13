@@ -4,18 +4,19 @@
     "url": "https://freecon.ga",
     "icon": "https://favicons.githubusercontent.com/freecon.ga",
     "slug": "freecon-ga",
-    "status": "up",
-    "uptime": "97.24%",
+    "status": "down",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "84.91%",
     "uptimeMonth": "96.53%",
-    "uptimeYear": "97.24%",
+    "uptimeYear": "97.27%",
     "time": 824,
     "timeDay": 404,
     "timeWeek": 366,
     "timeMonth": 771,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-03-08": 560,
       "2022-03-07": 962
     }
